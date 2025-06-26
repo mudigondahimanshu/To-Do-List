@@ -2,13 +2,7 @@
 
 A beautiful and responsive To-Do List application built using **React**. Easily add, complete, and delete tasks with a checkbox-style interface, smooth animations, and dark/light mode support. Fully deployed and accessible online using **Vercel**.
 
----
 
-## 🚀 Live Demo
-
-🔗 [Click here to use the app]()  
-
----
 
 ## 📸 Screenshots
 
