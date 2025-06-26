@@ -66,7 +66,7 @@ todo-app/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/devashishmudigonda/todo-app.git
+git clone https://github.com/himanshumudigonda/todo-app.git
 
 # 2. Navigate into the folder
 cd todo-app
@@ -78,16 +78,7 @@ npm install
 npm start
 ```
 
----
 
-## 🌐 Deployment (Vercel)
-
-1. Push your code to GitHub
-2. Go to [vercel.com](https://vercel.com)
-3. Import the repo and deploy
-4. Vercel will generate a live link for you
-
----
 
 ## ✨ Future Ideas
 
